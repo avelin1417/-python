@@ -1,1 +1,2 @@
-int num1=
+int num1=0
+print(num1)
